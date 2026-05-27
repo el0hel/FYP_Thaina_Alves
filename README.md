@@ -23,7 +23,7 @@ Contains the datasets at various stages of the pipeline to ensure reproducibilit
 * `*_sampling`: BP (Brazilian Portuguese), EP (European Portuguese), and MIX reviews separated after random sampling for a class-balanced dataset.
 * `final_ds`: The 3 distinct final corpora after the removal of singleton words.
 
-### `misclassified_analysis.xlsx'
+### `misclassified_analysis.xlsx`
 Contains the reviews misclassified by the stastistical Sentiment Analysis models, and the Dialect Classifier's predictions of their dialect.
 ---
 
